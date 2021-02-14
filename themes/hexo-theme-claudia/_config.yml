@@ -1,0 +1,27 @@
+user:
+  name: Brandon Jimenez
+  avatar: /images/avatar.jpg
+  location: Everywhere and nowhere
+  description: Blogging about CyberSecurity and homelabbing.
+
+# config you SNS
+social:
+  zhihu:
+  twitter:
+  facebook:
+  linkedin: https://www.linkedin.com/in/brandon-jimenez/
+  instagram:
+  github: https://github.com/punishedplisken
+
+ # main menu navigation
+ menu:
+   Home: /
+   About: /about
+   Archives: /archives
+   Resume:
+
+widgets:
+  - tag
+  - archive
+  - category
+  - recent_posts
