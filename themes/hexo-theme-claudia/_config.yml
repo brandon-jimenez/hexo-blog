@@ -17,24 +17,24 @@ social:
   facebook: /
   linkedin:
   instagram: /
-  github: haojen
+  github: 
 
 user:
-  name: Haojen
+  name: Brandon
   avatar: /images/avatar.jpg
-  location: In the dust
+  location: Everyhere and nowhere
   description: May the Force be with you
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
   enable: true
-  repo: Haojen/Claudia-theme-blog # your blog repo
+  repo: punishedplisken/hexo-blog # your blog repo
 
 # dark
 # light
 # user-can-set
-appearance: auto # Default value is auto
+appearance: dark # Default value is auto
 
 # Miscellaneous
 favicon: /images/favicon.png
