@@ -16,9 +16,9 @@ social:
   zhihu:
   twitter: /
   facebook: /
-  linkedin: https://www.linkedin.com/in/brandon-jimenez/
+  linkedin: brandon-jimenez
   instagram: /
-  github: https://github.com/punishedplisken
+  github: punishedplisken
 
 user:
   name: Brandon 
@@ -35,7 +35,7 @@ comment_utteranc:
 # dark
 # light
 # user-can-set
-appearance: dark # Default value is auto
+appearance: auto # Default value is auto
 
 # Miscellaneous
 favicon: /images/favicon.png
