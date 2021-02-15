@@ -3,6 +3,7 @@ menu:
   Home: /
   About: /about
   Archive: /archives
+  Resume: /
 
 widgets:
   - tag
@@ -20,9 +21,9 @@ social:
   github: https://github.com/punishedplisken
 
 user:
-  name: Brandon
+  name: Brandon 
   avatar: /images/avatar.jpg
-  location: Everyhere and nowhere
+  location: Everywhere and nowhere.
   description: May the Force be with you
 
 # documents: https://github.com/utterance/utterances
