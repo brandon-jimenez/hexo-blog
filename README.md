@@ -1,3 +1,6 @@
+# ARCHIVING THIS PROJECT
+## Found a better solution for a blog hosting
+----------------------------------------------------------
 # hexo-blog
 Content source for for my cyber sec/tech blog.
 The site is made using [hexo](https://hexo.io/) and is hosted using [netlify](https://www.netlify.com/).
